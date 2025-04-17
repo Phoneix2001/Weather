@@ -34,7 +34,9 @@ This is a Flutter-based Weather App that provides weather updates and forecasts.
 ## Screenshots
 Add screenshots of the app in the `assets/` folder and reference them here. For example:
 
-![Home Screen](assets/home.jpg)
+### ✅ Home Screen
+<img src="assets/home.jpg" width="300">
 
-![Search Bar](assets/search.jpg)
+### ✅ Search Bar
+<img src="assets/search.jpg" width="300">
 
