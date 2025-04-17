@@ -40,3 +40,9 @@ Add screenshots of the app in the `assets/` folder and reference them here. For 
 ### ✅ Search Bar
 <img src="assets/search.jpg" width="300">
 
+## APK Download
+
+You can download the latest build of the app using the link below:
+
+[Download APK](https://aikka-liv.s3.us-west-2.amazonaws.com/build/23204289611744917917139-apprelease.apk)
+
